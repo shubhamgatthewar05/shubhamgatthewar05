@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
-<h3 align="center">A passionate Data Analyst and Data Scientist from India.</h3>
+<h3 align="center">A passionate Software Engineer and Data Scientist from India.</h3>
 
 - 🌱 I’m currently learning **NLP, Machine Learning Algorithms**
 
