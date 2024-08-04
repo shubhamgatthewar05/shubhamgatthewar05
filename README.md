@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gatthewarshubham0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10RNR6cKybHHOO0IEkA_pygLSsNJ3-956/view?usp=sharing](https://drive.google.com/file/d/10RNR6cKybHHOO0IEkA_pygLSsNJ3-956/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10RNR6cKybHHOO0IEkA_pygLSsNJ3-956/view?usp=sharing](https://drive.google.com/file/d/10RNR6cKybHHOO0IEkA_pygLSsNJ3-956/view?usp=sharing](https://drive.google.com/file/d/1yejjaWwHSk8mz-NGzPN1uF_KiILq2mJh/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
