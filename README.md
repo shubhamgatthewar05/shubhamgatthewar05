@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist from India.</h3>
 
-- 🌱 I’m currently learning **NLP, Machine Learning Algorithms**
+- 🌱 I’m currently learning **NLP, Advanced Machine Learning Algorithms , Deep Learning , Dsa in Python**
 
-- 💬 Ask me about **PowerBI, Dsa , Python Framework(Flask),SQL**
+- 💬 Ask me about **PowerBI, Python ,SQL, Machine learning , Excel  **
 
 - 📫 How to reach me **gatthewarshubham0@gmail.com**
 
