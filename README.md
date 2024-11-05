@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gatthewarshubham0@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/10RNR6cKybHHOO0IEkA_pygLSsNJ3-956/view?usp=sharing](https://drive.google.com/file/d/10RNR6cKybHHOO0IEkA_pygLSsNJ3-956/view?usp=sharing]](https://drive.google.com/file/d/1LwDy5T2Fo8cVxFEnB9AT930nRO7nh45Q/view?usp=sharing)](https://drive.google.com/file/d/1nR1buWq7ghxcQKw5D4KPz3vnIY7wRcU9/view?usp=sharing).
+- 📄 Know about my experiences https://fabulous-moxie-a0c71e.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
