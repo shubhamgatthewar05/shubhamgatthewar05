@@ -1,4 +1,4 @@
-![My Banner](Black Modern Personal LinkedIn Banner.png) <!-- Replace with your image link -->
+![My Banner](./Black Modern Personal LinkedIn Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
