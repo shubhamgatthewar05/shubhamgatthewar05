@@ -1,4 +1,5 @@
-![My Banner]([Black Modern Personal LinkedIn Banner.png]) <!-- Replace with your image link -->
+![My Banner](Black Modern Personal LinkedIn Banner.png) <!-- Replace with your image link -->
+
 
 <h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist from India.</h3>
