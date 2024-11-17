@@ -1,6 +1,10 @@
+![My Banner](https://your-image-url.com/banner.jpg) <!-- Replace with your image link -->
+
 <h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist from India.</h3>
-![My Banner]([https://your-image-url.com/banner.jpg](https://www.canva.com/design/DAGWwo6Q8_g/873z0CNAGVCFT29vdkExtQ/edit)) <!-- Replace with your image link -->
+
+
+
 
 - 🌱 I’m currently learning **NLP, Advanced Machine Learning Algorithms , Deep Learning , Dsa in Python**
 
