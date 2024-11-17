@@ -8,6 +8,10 @@
 - 📫 How to reach me **gatthewarshubham0@gmail.com**
 
 - 📄 Know about my experiences https://fabulous-moxie-a0c71e.netlify.app/
+- ## 📂 My Resume
+📄 [View My Resume](https://drive.google.com/file/d/1JGBlpfuUTt6kTcNe2QyFyedOwHkgxkqv/view?usp=sharing)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
