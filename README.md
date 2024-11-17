@@ -1,4 +1,5 @@
-![My Banner](./Black Modern Personal LinkedIn Banner.png)
+!(./Black Modern Personal LinkedIn Banner.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
