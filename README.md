@@ -1,7 +1,9 @@
 
 
 
-
+<p align="center">
+  <img src="Black Modern Personal LinkedIn Banner.png" alt="Shubham Gatthewar Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist from India.</h3>
 
