@@ -40,11 +40,7 @@
 
 ---
 
-### 📂 Projects I'm Proud Of
-- 🤖 **Emotion Detector** – Built using CNN (Keras), GUI in Tkinter  
-- 📊 **WhatsApp Chat Analyzer** – Streamlit app for chat analytics  
-- 🌍 **Geospatial Voice UI (Hackathon)** – Voice-controlled geospatial map UI  
-- ☀️ **Solar Energy Potential Mapping** – Building footprint detection using ML
+
 
 ---
 
