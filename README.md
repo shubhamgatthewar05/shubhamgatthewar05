@@ -4,21 +4,64 @@
 <p align="center">
   <img src="Black Modern Personal LinkedIn Banner.png" alt="Shubham Gatthewar Banner" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Shubham Gatthewar</h1>
-<h3 align="center">A passionate Data Analyst and Data Scientist from India.</h3>
+### 👋 Hi there! I'm Shubham Gatthewar
 
+🎓 Final-year IT student at MGM College of Engineering, Nanded  
+🚀 Passionate about **Data Science, Machine Learning, and AI Applications**  
+🔍 Currently exploring **Computer Vision, Deep Learning, and NLP**  
+🧠 Enthusiastic about solving real-world problems using **Python, SQL, and ML algorithms**
 
+---
 
+### 🌱 I’m currently learning
+- **Advanced Machine Learning Algorithms**
+- **Natural Language Processing (NLP)**
+- **Deep Learning and Neural Networks**
+- **Big Data & Virtualized Datacenter tools (Apache Hadoop)**
+- **DSA in Python**
 
-- 🌱 I’m currently learning **NLP, Advanced Machine Learning Algorithms , Deep Learning , Dsa in Python**
+---
 
-- 💬 Ask me about **PowerBI, Python ,SQL, Machine learning , Excel  **
+### 🛠️ Tech Stack
+- **Languages**: Python, SQL, JavaScript, C  
+- **Web**: HTML, CSS, ReactJS, Bootstrap  
+- **Data Tools**: Power BI, Excel, Pandas, NumPy, Matplotlib  
+- **ML Tools**: Scikit-learn, TensorFlow, Keras  
+- **Others**: Streamlit, Jupyter Notebook, Anaconda, Git
 
-- 📫 How to reach me **gatthewarshubham0@gmail.com**
+---
 
-- 📄 Know about my experiences https://my-portfoliowebsite-six.vercel.app/
-- ## 📂 My Resume
-📄 [View My Resume](https://drive.google.com/file/d/1JGBlpfuUTt6kTcNe2QyFyedOwHkgxkqv/view?usp=sharing)
+### 💬 Ask Me About
+- **Data Analysis | Machine Learning | Deep Learning**  
+- **Power BI & Dashboarding**  
+- **NLP & Computer Vision Projects**  
+- **Python for DSA**  
+- **Building Data-Centric Web Apps with Streamlit**
+
+---
+
+### 📂 Projects I'm Proud Of
+- 🤖 **Emotion Detector** – Built using CNN (Keras), GUI in Tkinter  
+- 📊 **WhatsApp Chat Analyzer** – Streamlit app for chat analytics  
+- 🌍 **Geospatial Voice UI (Hackathon)** – Voice-controlled geospatial map UI  
+- ☀️ **Solar Energy Potential Mapping** – Building footprint detection using ML
+
+---
+
+### 📄 Resume
+[📎 View My Resume](https://drive.google.com/file/d/1JGBlpfuUTt6kTcNe2QyFyedOwHkgxkqv/view?usp=sharing)
+
+---
+
+### 🌐 Portfolio Website
+🔗 [Visit My Portfolio](https://my-portfoliowebsite-six.vercel.app/)
+
+---
+
+### 📫 Let's Connect!
+📧 gatthewarshubham0@gmail.com  
+📱 [LinkedIn](https://www.linkedin.com/in/shubham-gatthewar/)  
+💻 [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/gatthewarshubham0)  
 
 
 
