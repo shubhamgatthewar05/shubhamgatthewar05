@@ -13,7 +13,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <p>👋 <b>Hi! I'm Shubham</b>, a Final-year IT Engineer driven by the intersection of <b>Human Intelligence and Machine Learning</b>.</p>
+      <p>👋 <b>Hi! I'm Shubham</b>, AI/ML Enginner <b>Human Intelligence and Machine Learning</b>.</p>
       <p>🚀 I specialize in building production-ready <b>Computer Vision</b> and <b>Deep Learning</b> systems. My mission is to bridge the gap between complex research and real-world utility.</p>
       <p>🧠 Currently deep-diving into <b>Transformers, Generative AI, and Big Data Pipelines</b> to build the next generation of intelligent software.</p>
       <p>📍 Based in Nanded | Open to Global Opportunities</p>
