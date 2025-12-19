@@ -12,8 +12,7 @@
 
 ## 👋 Hi, I'm **Shubham Gatthewar**
 
-<img src="[https://studentsxstudents.com/wp-content/uploads/2020/09/1_i1G7UP4r86L4BTVh9xS6nQ.gif](https://miro.medium.com/v2/resize:fit:1000/0*6J2HtOMk1Q6A9H8v.gif)" alt="Computer Vision CNN GIF" align="left" width="260" />
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 🎓 Final-year **IT Engineer** from **MGM College of Engineering, Nanded**
 💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**
 🚀 Passionate about building **production-ready AI systems** that solve real-world problems
@@ -78,10 +77,9 @@ I design, train, and deploy intelligent models using **Python, ML algorithms, CN
 
 ---
 
-## 🚀 Featured Interests
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" />
+
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="48%" />
 </p>
 
