@@ -4,75 +4,130 @@
 <p align="center">
   <img src="Black Modern Personal LinkedIn Banner.png" alt="Shubham Gatthewar Banner" width="100%" />
 </p>
-### 👋 Hi there! I'm Shubham Gatthewar
-
-🎓 Final-year IT student at MGM College of Engineering, Nanded  
-🚀 Passionate about **Data Science, Machine Learning, and AI Applications**  
-🔍 Currently exploring **Computer Vision, Deep Learning, and NLP**  
-🧠 Enthusiastic about solving real-world problems using **Python, SQL, and ML algorithms**
-
----
-
-### 🌱 I’m currently learning
-- **Advanced Machine Learning Algorithms**
-- **Natural Language Processing (NLP)**
-- **Deep Learning and Neural Networks**
-- **Big Data & Virtualized Datacenter tools (Apache Hadoop)**
-- **DSA in Python**
-
----
-
-### 🛠️ Tech Stack
-- **Languages**: Python, SQL, JavaScript, C  
-- **Web**: HTML, CSS, ReactJS, Bootstrap  
-- **Data Tools**: Power BI, Excel, Pandas, NumPy, Matplotlib  
-- **ML Tools**: Scikit-learn, TensorFlow, Keras  
-- **Others**: Streamlit, Jupyter Notebook, Anaconda, Git
-
----
-
-### 💬 Ask Me About
-- **Data Analysis | Machine Learning | Deep Learning**  
-- **Power BI & Dashboarding**  
-- **NLP & Computer Vision Projects**  
-- **Python for DSA**  
-- **Building Data-Centric Web Apps with Streamlit**
-
----
-
-
-
----
-
-### 📄 Resume
-[📎 View My Resume](https://drive.google.com/file/d/1JGBlpfuUTt6kTcNe2QyFyedOwHkgxkqv/view?usp=sharing)
-
----
-
-### 🌐 Portfolio Website
-🔗 [Visit My Portfolio](https://my-portfoliowebsite-six.vercel.app/)
-
----
-
-### 📫 Let's Connect!
-📧 gatthewarshubham0@gmail.com  
-📱 [LinkedIn](https://www.linkedin.com/in/shubham-gatthewar/)  
-💻 [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/gatthewarshubham0)  
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubhamgat42967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamgat42967" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-gatthewar-98a525250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-gatthewar-98a525250" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubhamgatthewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamgatthewar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhamgatthewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamgatthewar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gatthewarspjn4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gatthewarspjn4/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shubham%20Gatthewar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Computer+Vision+Specialist;Deep+Learning+%7C+NLP+%7C+Data+Science;Turning+Data+into+Intelligent+Systems" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamgatthewar05&show_icons=true&locale=en&layout=compact" alt="shubhamgatthewar05" /></p>
+<p align="center">
+  <img src="Black Modern Personal LinkedIn Banner.png" alt="Shubham Gatthewar Banner" width="100%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgatthewar05&" alt="shubhamgatthewar05" /></p>
+---
+
+## 👋 Hi, I'm **Shubham Gatthewar**
+
+🎓 Final-year **IT Engineer** from **MGM College of Engineering, Nanded**
+💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**
+🚀 Passionate about building **production-ready AI systems** that solve real-world problems
+🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
+
+---
+
+## 💼 Currently Working As
+
+* **AI/ML Engineer**
+* **Specialist in Computer Vision Engineering**
+* **AI/ML & Deep Learning Solutions Developer**
+
+I design, train, and deploy intelligent models using **Python, ML algorithms, CNNs, and data-driven pipelines**, with a strong emphasis on **accuracy, performance, and real-world usability**.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+* 🔹 Advanced **Machine Learning Algorithms**
+* 🔹 **Deep Learning Architectures (CNNs, Attention, Transformers)**
+* 🔹 **Natural Language Processing (NLP)**
+* 🔹 **Big Data & Virtualized Datacenter Tools (Apache Hadoop)**
+* 🔹 **Data Structures & Algorithms in Python**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Programming & Core
+
+* **Python | SQL | JavaScript | C | C++ | Java**
+
+### 🌐 Web & App Development
+
+* **HTML | CSS | React.js | Bootstrap | Flask | Streamlit | Node.js**
+
+### 📊 Data Science & Visualization
+
+* **Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel**
+
+### 🤖 AI / ML / DL
+
+* **Scikit-learn | TensorFlow | Keras | PyTorch | OpenCV**
+
+### 🧰 Tools & Platforms
+
+* **Git | Docker | MongoDB | MySQL | PostgreSQL | Jupyter | Anaconda | Firebase**
+
+---
+
+## 💬 Ask Me About
+
+* ✅ **Machine Learning & Deep Learning**
+* ✅ **Computer Vision Projects (CNN, Detection, Classification)**
+* ✅ **NLP & Text-based AI Systems**
+* ✅ **Power BI & Data Dashboards**
+* ✅ **Python for DSA & AI Development**
+* ✅ **AI-powered Web Apps using Streamlit & Flask**
+
+---
+
+## 🚀 Featured Interests
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="48%" />
+</p>
+
+---
+
+## 📄 Resume
+
+📎 **[View My Resume](https://drive.google.com/file/d/1JGBlpfuUTt6kTcNe2QyFyedOwHkgxkqv/view?usp=sharing)**
+
+---
+
+## 🌐 Portfolio Website
+
+🔗 **[Visit My Portfolio](https://my-portfoliowebsite-six.vercel.app/)**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:gatthewarshubham0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-gatthewar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/shubhamgatthewar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/shubhamgatthewar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/gatthewarspjn4/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgatthewar05&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgatthewar05&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgatthewar05&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=footer&text=Building+AI+for+Real+World+Impact&fontSize=20&fontColor=ffffff" />
+</p>
