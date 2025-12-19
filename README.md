@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E6FE&height=250&section=header&text=SHUBHAM%20GATTHEWAR&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Associate%20AI%20/%20ML%20Engineer%20•%20Class%20of%202025&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E6FE&height=250&section=header&text=SHUBHAM%20GATTHEWAR&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Associate%20AI%20/%20ML%20Engineer%20&descAlignY=55&descSize=20" width="100%" />
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=Associate+AI%2FML+Engineer;Computer+Vision+Specialist;Deep+Learning+Practitioner;IT+Engineer+Graduating+2025" />
