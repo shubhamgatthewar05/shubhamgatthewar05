@@ -16,15 +16,15 @@
 <tr>
 <td width="60%">
 
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 🎓 Final-year **IT Engineer** from **MGM College of Engineering, Nanded**
 💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**
 🚀 Passionate about building **production-ready AI systems** that solve real-world problems
 🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
 
 </td>
-<td width="40%" align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" />
-</td>
+
 </tr>
 </table>
 
