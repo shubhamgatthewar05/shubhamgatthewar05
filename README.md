@@ -15,7 +15,7 @@
 <img 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
   width="45%" 
-  align="right"
+  style="float:right; margin-left:20px;"
 />
 
 🎓 **Final-year IT Engineer** from **MGM College of Engineering, Nanded**  
