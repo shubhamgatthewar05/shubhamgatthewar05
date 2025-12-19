@@ -12,15 +12,19 @@
 
 ## 👋 Hi, I'm **Shubham Gatthewar**
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
-</p>
-🎓 Final-year **IT Engineer** from **MGM College of Engineering, Nanded**
-💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**
-🚀 Passionate about building **production-ready AI systems** that solve real-world problems
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  width="45%" 
+  align="right"
+/>
+
+🎓 **Final-year IT Engineer** from **MGM College of Engineering, Nanded**  
+💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**  
+🚀 Passionate about building **production-ready AI systems** that solve real-world problems  
 🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
 
-<br clear="left" />
+<br clear="right"/>
+
 
 ---
 
