@@ -70,6 +70,15 @@
 
 ---
 
+## 🔬 Expertise Matrix
+<p align="center">
+<img src="https://img.shields.io/badge/-Computer_Vision-00E6FE?style=flat-square&logo=opencv&logoColor=black" />
+<img src="https://img.shields.io/badge/-Deep_Learning-00E6FE?style=flat-square&logo=tensorflow&logoColor=black" />
+<img src="https://img.shields.io/badge/-NLP-00E6FE?style=flat-square&logo=googlescholar&logoColor=black" />
+<img src="https://img.shields.io/badge/-Data_Science-00E6FE?style=flat-square&logo=jupyter&logoColor=black" />
+<img src="https://img.shields.io/badge/-MLOps-00E6FE?style=flat-square&logo=docker&logoColor=black" />
+</p>
+
 ## 📈 Performance Analytics
 <div align="center">
   <table border="0">
