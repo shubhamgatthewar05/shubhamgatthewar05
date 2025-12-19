@@ -23,7 +23,7 @@
        </div>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxcXp2N3R2Z3p2N3R2Z3p2N3R2Z3p2N3R2Z3Amdj12JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/0_6J2HtOMk1Q6A9H8v/giphy.gif" width="100%" style="border-radius:15px; border: 2px solid #00E6FE;" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3bmZpZndscDRoYm53M3U0N2N4NnB4NnB4NnB4NnB4NnB4NnB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" style="border-radius:15px; border: 2px solid #00E6FE;" />
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@
   <table border="0">
     <tr>
       <td width="33%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3bmZpZndscDRoYm53M3U0N2N4NnB4NnB4NnB4NnB4NnB4NnB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80px"/><br/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV0N3B4NnB4NnB4NnB4NnB4NnB4NnB4NnB4NnB4NnB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJpP8Dmx7C6s/giphy.gif" width="80px"/><br/>
         <b>Deep Learning & CV</b><br/>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=500&color=00E6FE&center=true&vCenter=true&width=200&lines=CNN+%E2%80%A2+YOLO;Efficient-Net;DeepSORT+%E2%80%A2+Re-ID;ResNet+%E2%80%A2+Detection" />
       </td>
