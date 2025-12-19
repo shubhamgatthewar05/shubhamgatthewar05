@@ -14,16 +14,15 @@
 
 <img 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  width="45%" 
-  style="float:right; margin-left:20px;"
+  width="40%" 
+  align="right"
 />
-
-🎓 **Final-year IT Engineer** from **MGM College of Engineering, Nanded**  
 💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**  
 🚀 Passionate about building **production-ready AI systems** that solve real-world problems  
 🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
 
 <br clear="right"/>
+
 
 
 ---
