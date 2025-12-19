@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shubham%20Gatthewar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Computer+Vision+Specialist;Deep+Learning+%7C+NLP+%7C+Data+Science;Turning+Data+into+Intelligent+Systems" />
@@ -14,14 +12,14 @@
 
 ## 👋 Hi, I'm **Shubham Gatthewar**
 
+<img src="[https://studentsxstudents.com/wp-content/uploads/2020/09/1_i1G7UP4r86L4BTVh9xS6nQ.gif](https://miro.medium.com/v2/resize:fit:1000/0*6J2HtOMk1Q6A9H8v.gif)" alt="Computer Vision CNN GIF" align="left" width="260" />
 
 🎓 Final-year **IT Engineer** from **MGM College of Engineering, Nanded**
 💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**
 🚀 Passionate about building **production-ready AI systems** that solve real-world problems
 🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
 
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<br clear="left" />
 
 ---
 
