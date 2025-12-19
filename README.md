@@ -34,7 +34,7 @@
 
 ### 🧠 Programming & Web Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,cpp,c,java,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,c,java,mysql,postgres,mongodb" />
 </p>
 
 ### 🛰️ Infrastructure & MLOps
