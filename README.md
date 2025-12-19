@@ -46,7 +46,7 @@ I design, train, and deploy intelligent models using **Python, ML algorithms, CN
 
 ### 🌐 Web & App Development
 
-* **HTML | CSS | React.js | Bootstrap | Flask | Streamlit | Node.js**
+* **HTML | CSS | Bootstrap | Flask | Streamlit **
 
 ### 📊 Data Science & Visualization
 
