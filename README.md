@@ -1,150 +1,104 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Computer+Vision+Specialist;Deep+Learning+%7C+NLP+%7C+Data+Science;Turning+Data+into+Intelligent+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E6FE&height=200&section=header&text=Shubham%20Gatthewar&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="Black Modern Personal LinkedIn Banner.png" alt="Shubham Gatthewar Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E6FE&center=true&vCenter=true&width=850&lines=AI%20%2F%20ML%20Engineer;Computer%20Vision%20Specialist;Deep%20Learning%20Practitioner;Turning%20Data%20into%20Intelligent%20Systems" />
 </p>
 
 ---
 
-## 👋 Hi, I'm **Shubham Gatthewar**
+## ⚡ About Me
 
-<img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  width="45%" 
-  style="
-    float:right;
-    margin-left:20px;
-    border-radius:18px;
-    opacity:0.9;
-    box-shadow:0 8px 24px rgba(0,0,0,0.35);
-  "
-/>
-
-🎓 **Final-year IT Engineer** from **MGM College of Engineering, Nanded**  
-💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**  
-🚀 Passionate about building **production-ready AI systems** that solve real-world problems  
-🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
-
-<br clear="right"/>
-
-
-
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>👋 <b>Hi! I'm Shubham</b>, a Final-year IT Engineer driven by the intersection of <b>Human Intelligence and Machine Learning</b>.</p>
+      <p>🚀 I specialize in building production-ready <b>Computer Vision</b> and <b>Deep Learning</b> systems. My mission is to bridge the gap between complex research and real-world utility.</p>
+      <p>🧠 Currently deep-diving into <b>Transformers, Generative AI, and Big Data Pipelines</b> to build the next generation of intelligent software.</p>
+      <p>📍 Based in Nanded | Open to Global Opportunities</p>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0,230,254,0.3);" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Currently Working As
+## 🛠️ The Tech Stack
 
-* **AI/ML Engineer**
-* **Specialist in Computer Vision Engineering**
-* **AI/ML & Deep Learning Solutions Developer**
+### 🧠 Artificial Intelligence & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-I design, train, and deploy intelligent models using **Python, ML algorithms, CNNs, and data-driven pipelines**, with a strong emphasis on **accuracy, performance, and real-world usability**.
-
----
-
-## 🌱 Currently Learning & Exploring
-
-* 🔹 Advanced **Machine Learning Algorithms**
-* 🔹 **Deep Learning Architectures (CNNs, Attention, Transformers)**
-* 🔹 **Natural Language Processing (NLP)**
-* 🔹 **Big Data & Virtualized Datacenter Tools (Apache Hadoop)**
-* 🔹 **Data Structures & Algorithms in Python**
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Programming & Core
-
-* **Python | SQL | JavaScript | C | C++ | Java**
-
-### 🌐 Web & App Development
-
-* **HTML | CSS | React.js | Bootstrap | Flask | Streamlit | Node.js**
-
-### 📊 Data Science & Visualization
-
-* **Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel**
-
-### 🤖 AI / ML / DL
-
-* **Scikit-learn | TensorFlow | Keras | PyTorch | OpenCV**
-
-### 🧰 Tools & Platforms
-
-* **Git | Docker | MongoDB | MySQL | PostgreSQL | Jupyter | Anaconda | Firebase**
+### 💻 Development & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-## 💬 Ask Me About
+## 🔬 Core Specializations
 
-* ✅ **Machine Learning & Deep Learning**
-* ✅ **Computer Vision Projects (CNN, Detection, Classification)**
-* ✅ **NLP & Text-based AI Systems**
-* ✅ **Power BI & Data Dashboards**
-* ✅ **Python for DSA & AI Development**
-* ✅ **AI-powered Web Apps using Streamlit & Flask**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3bmZpZndscDRoYm53M3U0N2N4NnB4NnB4NnB4NnB4NnB4NnB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px"/><br/>
+        <b>Computer Vision</b><br/>CNNs, YOLO, Object Detection
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV0N3B4NnB4NnB4NnB4NnB4NnB4NnB4NnB4NnB4NnB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJpP8Dmx7C6s/giphy.gif" width="100px"/><br/>
+        <b>NLP</b><br/>Transformers, Bert, Text Mining
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM3bmZpZndscDRoYm53M3U0N2N4NnB4NnB4NnB4NnB4NnB4NnB4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx6rXG3WMM/giphy.gif" width="100px"/><br/>
+        <b>Big Data</b><br/>Hadoop, Spark, Virtualization
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
+## 📊 Performance Metrics
 
 <p align="center">
-
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgatthewar05&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgatthewar05&layout=compact&theme=tokyonight" height="180" />
 </p>
-
-### 🧠 Computer Vision & CNNs (Beginner to Advanced)
 
 <p align="center">
-  <img src="https://studentsxstudents.com/wp-content/uploads/2020/09/1_i1G7UP4r86L4BTVh9xS6nQ.gif" width="70%" alt="Computer Vision and CNNs GIF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgatthewar05&theme=tokyonight" width="100%" />
 </p>
 
-🔗 **Reference Article**:
-👉 [A Beginner’s Guide to Computer Vision and Convolutional Neural Networks](https://studentsxstudents.com/a-beginners-guide-to-computer-vision-and-convolutional-neural-networks-23ed26ad4b32)
-
 ---
 
-## 📄 Resume
-
-📎 **[View My Resume](https://drive.google.com/file/d/1JGBlpfuUTt6kTcNe2QyFyedOwHkgxkqv/view?usp=sharing)**
-
----
-
-## 🌐 Portfolio Website
-
-🔗 **[Visit My Portfolio](https://my-portfoliowebsite-six.vercel.app/)**
-
----
-
-## 📫 Let's Connect
+## 🔗 Let's Connect & Collaborate
 
 <p align="center">
   <a href="mailto:gatthewarshubham0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shubham-gatthewar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://my-portfoliowebsite-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E6FE?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://kaggle.com/shubhamgatthewar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.leetcode.com/shubhamgatthewar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/gatthewarspjn4/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgatthewar05&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgatthewar05&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgatthewar05&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=footer&text=Building+AI+for+Real+World+Impact&fontSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E6FE&height=50&section=footer&text=Innovating%20through%20Artificial%20Intelligence&fontSize=20&fontColor=000000" />
 </p>
