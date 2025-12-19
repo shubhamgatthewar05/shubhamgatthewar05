@@ -14,10 +14,21 @@
 
 ## 👋 Hi, I'm **Shubham Gatthewar**
 
+<table>
+<tr>
+<td width="60%">
+
 🎓 Final-year **IT Engineer** from **MGM College of Engineering, Nanded**
 💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**
 🚀 Passionate about building **production-ready AI systems** that solve real-world problems
 🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
+
+</td>
+<td width="40%" align="right">
+  <img src="https://studentsxstudents.com/wp-content/uploads/2020/09/1_i1G7UP4r86L4BTVh9xS6nQ.gif" alt="Computer Vision CNN GIF" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,7 +60,7 @@ I design, train, and deploy intelligent models using **Python, ML algorithms, CN
 
 ### 🌐 Web & App Development
 
-* **HTML | CSS | Bootstrap | Flask | Streamlit **
+* **HTML | CSS | React.js | Bootstrap | Flask | Streamlit | Node.js**
 
 ### 📊 Data Science & Visualization
 
