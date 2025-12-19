@@ -12,7 +12,6 @@
 
 ## 👋 Hi, I'm **Shubham Gatthewar**
 
-🎓 Final-year **IT Engineer** from **MGM College of Engineering, Nanded**
 💼 **AI/ML Engineer** | **Computer Vision Specialist** | **Deep Learning Practitioner**
 🚀 Passionate about building **production-ready AI systems** that solve real-world problems
 🧠 Strong focus on **Computer Vision, Machine Learning, Deep Learning, and NLP**
